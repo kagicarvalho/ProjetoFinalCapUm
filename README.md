@@ -11,7 +11,7 @@
 > * Deletar recurso
 
 
-## Code Samples
+## 
 
 <h1 align="center">
   Entity
